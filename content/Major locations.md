@@ -4,95 +4,78 @@ tags:
   - public
 draft: false
 ---
+# Far Continent
+
+Once nearly impossible to reach due to its vast distance, treacherous seas, and fearsome sea monsters, the Far Continent is now open for exploration after an unexplained change in the surrounding oceans. Its full size remains unknown, but it may be the largest continent on the planet.
+
+This land is home to ancient beasts, lost civilizations, and mysterious creatures never before encountered. Magical phenomena actively reshape its landscapes, making it a place of both wonder and danger.
+
+One major outpost has managed to flourish in the harsh conditions of the Far Continent: **Farport**, a port town constructed at the edge of a mighty jungle. All of this has been made possible by a man named **Eldun Clandhand**, an ex-adventurer who has worked his way up to his current position.
 
 ---
 
-# Far Continent  
-Once nearly impossible to reach due to its vast distance, treacherous seas, and fearsome sea monsters, the Far Continent is now open for exploration after an unexplained change in the surrounding oceans. Its full size remains unknown but it may be the largest continent on the planet.
+# Halla
 
-This land is home to ancient beasts, lost civilizations, and mysterious creatures never before encountered. Magical phenomena actively reshape its landscapes, making it a place of wonder and danger.
-
-**Disclaimer:**  
-- Add more specific notable locations within the Far Continent.  
-- Include key factions or inhabitants.  
-- Describe some of the major magical phenomena in detail.
-
----
-
-# Halla  
-The largest empire in the world, Halla is ruled by the current most powerful warrior. It has united many fractured states under one banner and boasts the most formidable military force on the planet.
+The largest empire in the world, Halla is ruled by the current most powerful warrior, **Emperor Tir Halla II**. It has united many fractured states under one banner and boasts the most formidable military force on the planet.
 
 The terrain of Halla is diverse, ranging from southern tropics and dark swamps to vast plains and snowy mountain ranges.
 
-**Disclaimer:**  
-- Flesh out the empire’s history and current political structure.  
-- Add major cities or landmarks.  
-- Detail key NPCs or military factions.
+Major cities in Halla include the capital **Hallavar**, and **Varia**, the largest city on the continent, home to the world's biggest library.
+
+Halla shares borders with **Faelneath** and **Arektak**. These nations have gone to war over territorial disputes. Faelneath still controls the mighty forest, and Arektak retains the majority of the hills.
 
 ---
 
-# Faelneath  
-The oldest known civilization on Druptur, Faelneath has maintained its independence despite the rise of Halla. It is a diarchy ruled jointly by High Elf and Drow royal families.
+# Faelneath
 
-Faelneath mainly consists of dense forests extending into the mysterious Underdark below.
+The oldest known civilization on Druptur, Faelneath has maintained its independence despite the rise of Halla.
 
-**Disclaimer:**  
-- Expand on the relationship and tensions between the High Elves and Drow.  
-- Add cultural and societal details.  
-- List key settlements and political intrigues.
+Faelneath is a diarchy ruled jointly by High Elf and Drow royal families. They mostly govern their own sections of the land, but during times of crisis, they work together to uphold the integrity of the realm.
+
+Faelneath consists mainly of dense forests extending into the mysterious **Underdark** below. Its capital is built around a massive tree, said to have stood since before the elves arrived. Its branches and trunk form a city that reaches the heavens, while its roots offer protection to those who live below.
 
 ---
 
-# Kingdom  
-*Placeholder for future expansion.*
+# Arektak
 
-**Disclaimer:**  
-- Define which kingdom this refers to.  
-- Add geographic, cultural, and political information.  
-- Include its role in the world and relations with other regions.
+Arektak is ruled by a dwarven monarchy that frequently clashes with both Faelneath and Halla.
 
----
+The region consists mostly of hills and mountains. The land is harsh and unforgiving, but its true wealth lies in the rich stone extracted from its depths, used all over Druptur.
 
-# Sand Sea  
-An enormous desert of endless dunes that stretch as far as the Aarakocra eye can see. Scattered towns and trade routes cross this harsh landscape.
-
-**Disclaimer:**  
-- Detail key settlements or oases.  
-- Include nomadic cultures or unique desert creatures.  
-- Add hazards and legends tied to the desert.
+Magic in Arektak is strictly monitored. Only licensed individuals may practice it. Unauthorized use of magic results in exile—at the very least.
 
 ---
 
-# Taiva  
-A massive floating megalopolis above the Sand Sea, Taiva is ruled by various colorful clans—powerful mages, skilled samurai, and wealthy merchants.
+# Sand Sea
 
-The city floats atop multiple flying rocks, made possible by magical runes and aetherstones. These runes enable the floating, flowing water, and even street lighting, making Taiva the most technologically advanced place in Druptur.
+An enormous desert of endless dunes stretching as far as the Aarakocra eye can see. Scattered towns and trade routes cross this harsh, ever-shifting landscape.
 
-**Disclaimer:**  
-- Describe the major clans and their rivalries.  
-- Add points of interest and city districts.  
-- Explain more about aetherstones and their influence.
+Many abandoned excavation sites and oases lie buried in the desert, having been overtaken by time and sand.
+
+The harsh weather brings frequent sandstorms, and the dunes themselves seem alive—moving like waves on the sea.
 
 ---
 
-# Stone Crown  
-A rugged mountain region connecting the Halla Empire with the High and Low Lands. It is an autonomous area under Halla’s control. The region is named for its crown-like shape.
+# Taiva
 
-**Disclaimer:**  
-- Add cultural and demographic information.  
-- Describe major passes, towns, or strongholds.  
-- Explain the strategic importance of this region.
+A massive floating megalopolis above the Sand Sea, **Taiva** is ruled by various colorful clans—powerful mages, skilled samurai, and wealthy merchants.
+
+The city floats atop multiple flying rocks, made possible by magical runes and **aetherstones**. These runes also enable flowing water, floating platforms, and street lighting, making Taiva the most technologically advanced place in all of Druptur.
 
 ---
 
-# High and Low Lands  
-A land primarily inhabited by green-skinned races such as Orcs, Goblins, and their kin. It is currently ruled by an Orc Emperor chosen through a brutal fight to the death. The previous ruler was a Hobgoblin selected through a rigged vote.
+# Stone Crown
 
-The western part of this land consists of hills and mountains (the High Lands), while the eastern side is mainly plains and fields (the Low Lands).
+A rugged mountain region connecting the Halla Empire with the High and Low Lands. It is an autonomous area under Halla’s nominal control, named for its crown-like mountain formations.
 
-**Disclaimer:**  
-- Expand on the political dynamics and tribal relations.  
-- Add notable leaders and factions.  
-- Describe customs, conflicts, and daily life.
+A major trade route stretches from the edges of the Sand Sea through the Stone Crown to the southern parts of Halla. The mountains are said to hold vast veins of gemstones and ores yet to be discovered.
+
+Various **Goliath tribes** inhabit this region, each governing themselves on their own terms. Even Halla has not been able to fully control them.
 
 ---
+
+# High and Low Lands
+
+A land primarily inhabited by green-skinned races such as Orcs, Goblins, Ogres, and their kin. It is currently ruled by an **Orc Emperor**, chosen through a brutal fight to the death between different tribes. The previous ruler was a Hobgoblin selected through a rigged voting system. They seem to go with whatever works at the time.
+
+The western region—**the High Lands**—consists of hills and mountains, while the eastern region—**the Low Lands**—is mostly plains and fields. Very original.
