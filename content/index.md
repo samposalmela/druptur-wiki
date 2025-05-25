@@ -2,5 +2,6 @@
 title: Welcome to Quartz
 ---
 
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+# The World of Druptur  
+
+Druptur is a rich fantasy setting on a mysterious world filled with ancient magic, lost civilizations, and interesting adventures.
