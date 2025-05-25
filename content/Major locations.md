@@ -1,7 +1,6 @@
 ---
-title: Druptur
-tags:
-  - public
+title: Major locations
+tags: 
 draft: false
 ---
 # Far Continent
