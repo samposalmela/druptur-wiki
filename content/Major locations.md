@@ -10,17 +10,17 @@ Once nearly impossible to reach due to its vast distance, treacherous seas, and 
 
 This land is home to ancient beasts, lost civilizations, and mysterious creatures never before encountered. Magical phenomena actively reshape its landscapes, making it a place of both wonder and danger.
 
-One major outpost has managed to flourish in the harsh conditions of the Far Continent: **Farport**, a port town constructed at the edge of a mighty jungle. All of this has been made possible by a man named **Eldun Clandhand**, an ex-adventurer who has worked his way up to his current position.
+One major outpost has managed to flourish in the harsh conditions of the Far Continent: **Farport**, a port town constructed at the edge of a mighty jungle. All of this has been made possible by a man named **[[Powerful entities#Eldun Clanhand|Eldun Clandhand]]**, an ex-adventurer who has worked his way up to his current position.
 
 ---
 
 # Halla
 
-The largest empire in the world, Halla is ruled by the current most powerful warrior, **Emperor Tir Halla II**. It has united many fractured states under one banner and boasts the most formidable military force on the planet.
+The largest empire in the world, Halla is ruled by the current most powerful warrior, **[[Powerful entities#Tir Halla| Emperor Tir Halla]]**. It has united many fractured states under one banner and boasts the most formidable military force on the planet.
 
 The terrain of Halla is diverse, ranging from southern tropics and dark swamps to vast plains and snowy mountain ranges.
 
-Major cities in Halla include the capital **Hallavar**, and **Varia**, the largest city on the continent, home to the world's biggest library.
+Major cities in Halla include the capital **Hallavar**, and **Varia**, the largest city in the Lands, home to the world's greatest library.
 
 Halla shares borders with **Faelneath** and **Arektak**. These nations have gone to war over territorial disputes. Faelneath still controls the mighty forest, and Arektak retains the majority of the hills.
 
