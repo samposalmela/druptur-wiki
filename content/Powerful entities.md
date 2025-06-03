@@ -33,6 +33,16 @@ Deities are able to contact mortals through visions, natural phenomena, or even 
     - Nature, Life
         
 
+### Some history of Helm
+
+#### Creation of Druptur
+
+Most of the gods are to said to have been there when Druptur was created. Terra moving the masses of land to create the continents and Hydron creating rains big enough to fill the oceans. Sirona giving the first seed of Life to the first creature to step on this newly created land and Oblivion taking it when the time came. Pyre and Rune giving the knowledge, tools and magic for the first humanoids who walked the land.
+
+#### Death of the God of Sky
+
+The only recorded death of a god happened when Hides rose to power by killing the god before him and taking his place in the Helm. Hides was a god for those who enjoyed nightly activities be those guarding the city streets or robbing them. It is said God of Sky, Uron, was tricked by Hides and slaughtered in his sleep. Before this event only the night and moons of Druptur, Dexter and Sirius, were his domain. Now the whole sky belongs to him. When Hides took his place the nights on Druptur became ever longer. 
+
 ---
 
 # Devils
