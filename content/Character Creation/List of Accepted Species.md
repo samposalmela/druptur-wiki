@@ -1,0 +1,41 @@
+If the species you want to play is not in this list and you really really really want to play it. Contact you Dungeon Master and we can see what we can do.
+
+- Aasimar
+- Dragonborn
+- Dwarf
+- Elf
+- Gnome
+- Goliath
+- Halfling
+- Human
+- Orc
+- Tiefling
+- Aarakocra
+- Air/Earth/Fire/Water Genasi
+- Bugbear
+- Centaur
+- Changeling
+- Deep Gnome
+- Duergar
+- Eladrin
+- Fairy
+- Firbolg
+- Gobling
+- Harengon
+- Hobgoblin
+- Kenku
+- Kobold
+- Lizardfolk
+- Minotaur
+- Satyr
+- Sea Elf
+- Shadar-kai
+- Shifter
+- Tabaxi
+- Tortle
+- Triton
+- Owlin
+- Lineages (Dhampir/Reborn/Hexblood)
+- Leonin
+- Loxodon
+-

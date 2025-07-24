@@ -57,9 +57,9 @@ The harsh weather brings frequent sandstorms, and the dunes themselves seem aliv
 
 # Taiva
 
-A massive floating megalopolis above the Sand Sea, **Taiva** is ruled by various colorful clans—powerful mages, skilled samurai, and wealthy merchants.
+Various colorful clans consisting of strong mages, expert samurai, and prosperous merchants, rule **Taiva**, a huge floating megalopolis above the Sand Sea.
 
-The city floats atop multiple flying rocks, made possible by magical runes and **aetherstones**. These runes also enable flowing water, floating platforms, and street lighting, making Taiva the most technologically advanced place in all of Druptur.
+Thanks to magical runes and **aetherstones**, the city floats atop several flying rocks. In addition to allowing for street lighting, floating platforms, and flowing water, these runes make Taiva the most technologically advanced location in all of Druptur.
 
 ---
 
@@ -75,6 +75,6 @@ Various **Goliath tribes** inhabit this region, each governing themselves on the
 
 # High and Low Lands
 
-A land primarily inhabited by green-skinned races such as Orcs, Goblins, Ogres, and their kin. It is currently ruled by an **Orc Emperor**, chosen through a brutal fight to the death between different tribes. The previous ruler was a Hobgoblin selected through a rigged voting system. They seem to go with whatever works at the time.
+A place where green-skinned races like ogres, goblins, orcs, and their relatives predominate. At the moment, it is governed by a **Orc Emperor** who was selected after a bloody battle between several tribes. A Hobgoblin chosen by a rigged voting process was the previous ruler. They appear to follow whatever is effective at the moment.
 
-The western region—**the High Lands**—consists of hills and mountains, while the eastern region—**the Low Lands**—is mostly plains and fields. Very original.
+Whereas the eastern region, **the Low Lands**, is primarily made up of plains and fields, the western region, **the High Lands**, is made up of hills and mountains. Very creative.
