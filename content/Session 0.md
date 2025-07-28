@@ -86,6 +86,7 @@ We use Discord for:
 - Game play mechanics (map)
 
 ---
+# First session
 
 ## Technical Setup
 
@@ -97,7 +98,8 @@ We use Discord for:
 
 ---
 
-## Ready to Begin?
+
+# Ready to Begin?
 
 Once you’ve read this, check out:
 - [[The World of Druptur]] – Setting overview
@@ -106,8 +108,8 @@ Once you’ve read this, check out:
 If you are joining into the [[Druptur Wiki/content/index#Farbound|Farbound]] campaign:
 
 - [[Major locations#Far Continent|Far Continent]] - Local setting overview
-- #gathered-notes - Channel in Farbound Discord to catch on what has happened before
-- #adventurer - Channel to get to know your future party members!
+- [#gathered-notes](https://discord.com/channels/1317422960222666853/1370256590447312976)- Channel in Farbound Discord to catch on what has happened before.
+- [#adventurers](https://discord.com/channels/1317422960222666853/1370263121704255558) - Channel to get to know your future party members!
 
 **Welcome to Druptur.**
 
