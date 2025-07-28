@@ -1,6 +1,8 @@
 ---
 title: Welcome to the world of Druptur
 ---
+Druptur is a world created for playing Dungeon & Dragons in a homebrew setting.
+
 <div class="grid-container">
 
 <a href="[[Druptur Wiki/quartz/content/Session 0|Session 0]]" class="grid-item type-1">
@@ -29,7 +31,7 @@ title: Welcome to the world of Druptur
 
 <a href="[[Campaign introduction]]" class="grid-item type-5">
 <div class="icon">🏞️</div>
-<div class="title">Farbound<</div>
+<div class="title">Farbound</div>
 <div class="description">Farbound campaign infromation.</div>
 </a>
 
@@ -39,4 +41,3 @@ title: Welcome to the world of Druptur
 <div class="description">Need help with something check this out.</div>
 </a>
 </div>
-

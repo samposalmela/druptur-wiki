@@ -1,6 +1,9 @@
 ---
-title: Welcome to Druptur – Session 0
-tags: [session-0, onboarding, rules]
+title: Session 0 - The short version
+tags:
+  - session-0
+  - onboarding
+  - rules
 ---
 > Insert cool quote here.
 

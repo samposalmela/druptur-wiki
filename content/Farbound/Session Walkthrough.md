@@ -1,3 +1,5 @@
+WORK IN PROGRESS
+
 ## Before session
 
 - You can [#session-planning](https://discord.com/channels/1317422960222666853/1324796947772739696) to discuss what time would be the most preferable for the next upcoming session.
