@@ -21,16 +21,16 @@ title: Welcome to the world of Druptur
 <div class="description">Learn more about the world and the places in it.</div>
 </a>
 
-<a href="[[Powerful entities]]"class="grid-item type-4">
+<a href="[[Powerful entities]]" class="grid-item type-4">
 <div class="icon">👑</div>
 <div class="title">Achievements</div>
 <div class="description">Learn about the powerful people and other entities dwelling somewhere in the world.</div>
 </a>
 
-<a href="AllMonsters" class="grid-item type-5">
+<a href="[[Campaign introduction]]" class="grid-item type-5">
 <div class="icon">🏞️</div>
-<div class="title">Monsters</div>
-<div class="description">Careful where you step.</div>
+<div class="title">Farbound<</div>
+<div class="description">Farbound campaign infromation.</div>
 </a>
 
 <a href="[[List of Tutorials]]" class="grid-item type-6">
